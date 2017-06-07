@@ -78,9 +78,8 @@ function create_config( )
 		"Options",
 	},
     sudo_users = {
-   208066713,
-   328656166,
-   300783777,
+   180191663,
+   158955285,
 },
     admins = {},
     disabled_channels = {},
