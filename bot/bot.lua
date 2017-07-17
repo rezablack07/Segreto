@@ -78,9 +78,9 @@ function create_config( )
 		"Options",
 	},
     sudo_users = {
-   208066713,
-   328656166,
-   300783777,
+   285318015,
+   256331224,
+   
 },
     admins = {},
     disabled_channels = {},
@@ -88,8 +88,8 @@ function create_config( )
     info_text = [[*S E G R E T O*
 *An advanced administration bot based on* `Telegram-Cli`
 
-*Developer And Founder* `>` @PrswShrr
-*Developer* `>` @MrAmirDev
+*Developer And Founder* `>` @RezaBlacku
+*Developer* `>` @professor_virus
 
 *Special thanks to :*
 @Solid
